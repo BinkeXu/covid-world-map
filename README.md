@@ -2,6 +2,8 @@
 
 An interactive React application that visualizes global COVID-19 data on an interactive world map with modern design and real-time statistics.
 
+![Alt text](app-example.jpg)
+
 ## Features
 
 - 🌍 **Interactive World Map**: Click on countries to view detailed COVID-19 statistics
