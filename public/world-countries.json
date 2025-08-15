@@ -1,0 +1,214 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "United States",
+        "iso_a2": "US"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-125, 48], [-125, 32], [-66, 32], [-66, 48], [-125, 48]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canada",
+        "iso_a2": "CA"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-125, 48], [-125, 60], [-66, 60], [-66, 48], [-125, 48]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "United Kingdom",
+        "iso_a2": "GB"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-2, 50], [-2, 60], [2, 60], [2, 50], [-2, 50]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Germany",
+        "iso_a2": "DE"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[6, 47], [6, 55], [15, 55], [15, 47], [6, 47]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "France",
+        "iso_a2": "FR"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-5, 42], [-5, 51], [10, 51], [10, 42], [-5, 42]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Italy",
+        "iso_a2": "IT"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[6, 36], [6, 47], [18, 47], [18, 36], [6, 36]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spain",
+        "iso_a2": "ES"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-10, 36], [-10, 44], [5, 44], [5, 36], [-10, 36]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "China",
+        "iso_a2": "CN"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[73, 18], [73, 54], [135, 54], [135, 18], [73, 18]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Japan",
+        "iso_a2": "JP"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[129, 30], [129, 46], [146, 46], [146, 30], [129, 30]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "India",
+        "iso_a2": "IN"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[68, 8], [68, 37], [97, 37], [97, 8], [68, 8]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brazil",
+        "iso_a2": "BR"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-74, -34], [-74, 5], [-34, 5], [-34, -34], [-74, -34]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Australia",
+        "iso_a2": "AU"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[113, -44], [113, -10], [154, -10], [154, -44], [113, -44]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Russia",
+        "iso_a2": "RU"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[30, 50], [30, 80], [180, 80], [180, 50], [30, 50]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mexico",
+        "iso_a2": "MX"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-118, 14], [-118, 32], [-86, 32], [-86, 14], [-118, 14]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Africa",
+        "iso_a2": "ZA"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[16, -35], [16, -22], [33, -22], [33, -35], [16, -35]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Argentina",
+        "iso_a2": "AR"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-74, -55], [-74, -22], [-53, -22], [-53, -55], [-74, -55]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Turkey",
+        "iso_a2": "TR"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[26, 36], [26, 42], [45, 42], [45, 36], [26, 36]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iran",
+        "iso_a2": "IR"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[44, 25], [44, 40], [63, 40], [63, 25], [44, 25]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Korea",
+        "iso_a2": "KR"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[124, 33], [124, 38], [132, 38], [132, 33], [124, 33]]]]
+      }
+    }
+  ]
+}
